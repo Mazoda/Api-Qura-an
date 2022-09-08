@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>497292669936-vscfbsumifjbp5j4iomllfbtpt03fjcn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.497292669936-vscfbsumifjbp5j4iomllfbtpt03fjcn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNUoSbJxAZugk7oksixx4yvt-uOhvSkgE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>497292669936</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quranapi</string>
+	<key>PROJECT_ID</key>
+	<string>doaa-39b5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doaa-39b5a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:497292669936:ios:cd96fad3c28e294a3fa335</string>
+</dict>
+</plist>
